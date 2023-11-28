@@ -9,7 +9,7 @@ NAR Genomics and Bioinformatics. 2020 August 14;2(3):1-12. doi.org/10.1093/narga
 ](https://academic.oup.com/nargab/article/2/3/lqaa057/5892759)
 
 ## License
-Use of Riprap is free for academic users under the GNU General Public License (GPL). Commercial users please contact the authors.
+Use of RiboSNitchDB is free for academic users under the GNU General Public License (GPL). Commercial users please contact the authors.
 
 ## Contact
 Zhengqing Ouyang: ouyang@schoolph.umass.edu
